@@ -35,6 +35,6 @@ if (isset($_REQUEST['func'])) {
     }
 }else {
     // Retorna erro caso tenha problemas no Post
-    echo 'erro';
+    echo 'erro no post';
 }
 
